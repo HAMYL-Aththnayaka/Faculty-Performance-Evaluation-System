@@ -183,6 +183,7 @@ Form validation both client-side and server-side to maintain data integrity.
 
 ![image](https://github.com/user-attachments/assets/05bb22e7-319b-4dba-80ea-030990a2cce0)
 
+![image](https://github.com/user-attachments/assets/b71929fd-da9e-4d3b-9bcc-5c4739a779d1)
 
 
 # Future Improvements
